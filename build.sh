@@ -12,7 +12,7 @@ clear
 
 # Resources
 THREAD="-j$(grep -c ^processor /proc/cpuinfo)"
-DEFCONFIG="cyanogenmod_tomato-64_defconfig"
+DEFCONFIG="cyanogenmod_wt86518-64_defconfig"
 KERNEL="Image"
 
 #Hyper Kernel Details
